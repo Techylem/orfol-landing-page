@@ -4,7 +4,7 @@
 @media (max-width: 520px){h1{font-size: 20px;}p{font-size: 12px;}}
 @media (max-width: 320px){.fa{margin: 0px}}
 
-html, body {background: url('../includes/blue.jpg') #1b5e79;max-height: 100vh; max-width: 100vw; font-family: 'Varela Round', sans-serif; margin: 0px;}
+html, body {background: radial-gradient(#1B5E79, #2A91BA) #1B5E79;max-height: 100vh; max-width: 100vw; font-family: 'Varela Round', sans-serif; margin: 0px;}
 .logo{padding: 30px;}
 .logo img{height: 70px; width: auto;}
 .display-middle{position:absolute;top:30%;left:45%;transform:translate(-30%,-30%);-ms-transform:translate(-30%,-30%); color: #FBFBFB;}
